@@ -1,0 +1,8 @@
+runn
+clean
+run
+eat
+write
+eating
+hello
+wash
