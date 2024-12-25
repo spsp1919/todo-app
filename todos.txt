@@ -8,3 +8,7 @@ hello
 wash
 new
 home
+hello
+master python
+master python
+do homework
