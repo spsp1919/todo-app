@@ -6,3 +6,5 @@ write
 eating
 hello
 wash
+new
+home
