@@ -3,7 +3,7 @@ import FreeSimpleGUI as sg
 
 from zipfile_extractor import extract_archive
 
-sg.theme("BlackMono")
+sg.theme("Black")
 
 label1 =sg.Text("select files to archive")
 input1 =sg.Input()
